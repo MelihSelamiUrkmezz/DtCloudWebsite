@@ -1,0 +1,11 @@
+.my-card {
+    border: none;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    
+    box-shadow: 0 0 10px rgba(218, 11, 11, 0.2);
+  }
